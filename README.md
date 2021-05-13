@@ -18,14 +18,19 @@ public class Lavarropas
 
 
 import java.util.Scanner;
-public class FuncionLavarropas 
+
+
+public class FuncionLavarropas
 {
+
     //aplico el encapsulamiento con modificadores de acceso
+    
        private int kilos ;
        private String marca;
        private String modelo;
        
        //creo el metodo constructor
+       
        public FuncionLavarropas()
        {
        
